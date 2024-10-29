@@ -1,4 +1,4 @@
-// Task 1: Create a function named `printName` that prints your name on the screen
+// Task 1:
 function printName() {
   console.log("Salem Salman");
 }
